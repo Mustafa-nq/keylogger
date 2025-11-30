@@ -1,0 +1,22 @@
+body {
+    font-family: Arial;
+    padding: 20px;
+}
+
+.warning {
+    background: #ffcc00;
+    padding: 10px;
+    border: 2px solid black;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+input {
+    padding: 6px;
+    margin: 5px;
+}
+
+button {
+    padding: 6px 10px;
+    margin: 5px;
+}
