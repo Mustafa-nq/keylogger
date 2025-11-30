@@ -5,7 +5,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"keydemo/internal/handlers"
+	"keylogger/internal/handlers"
 
 	"github.com/labstack/echo/v4"
 	"github.com/labstack/echo/v4/middleware"
